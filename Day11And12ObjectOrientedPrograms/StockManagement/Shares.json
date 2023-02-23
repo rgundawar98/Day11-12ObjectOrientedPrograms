@@ -1,0 +1,29 @@
+{
+  "TypesOfShares": [
+    {
+      "StockName": "Wipro",
+      "NumberofShare": 12,
+      "Price":395
+    },
+    {
+      "StockName": "ITC",
+      "NumberofShare": 10,
+      "Price":387
+    },
+    {
+      "StockName": "TCS",
+      "NumberofShare": 15,
+      "Price":3412
+    },
+    {
+      "StockName": "YesBank",
+      "NumberofShare": 50,
+      "Price":17
+    },
+    {
+      "StockName":"SBI",
+      "NumberofShare": 20,
+      "Price":523
+    }
+  ]
+}
